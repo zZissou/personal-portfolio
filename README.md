@@ -2,24 +2,24 @@
 
 1. Create a fork of the [this](https://github.com/sf-wdi-31/personal-portfolio) by clicking "Fork" on the top right.
 
-  ![fork button](https://butt.githubusercontent.com/assets/6520345/17564556/97ecdd00-5ee8-11e6-9ad0-a7b8104579ff.png)
+  ![fork button](https://cloud.githubusercontent.com/assets/6520345/17564556/97ecdd00-5ee8-11e6-9ad0-a7b8104579ff.png)
 
 2. You'll see a screen like the one below while GitHub is forking the repo. Forking creates a copy of the original repo on your own GitHub account. The forked repo is still online only and not on your computer.
 
-  ![forking](https://butt.githubusercontent.com/assets/6520345/17570801/c0d27e36-5f02-11e6-8d44-f485301831ed.png)
+  ![forking](https://cloud.githubusercontent.com/assets/6520345/17570801/c0d27e36-5f02-11e6-8d44-f485301831ed.png)
 
 3. Now you have your own copy of the repo! In order to make this a live personal website, we're going to take advantage of GitHub's [*GitHub pages*](https://pages.github.com/) feature. All we need to do is change the repository name to `<fill in your GitHub username>.github.io`. Here's how:
-  * Click on the settings tab toward the top of the page: ![settings tab](https://butt.githubusercontent.com/assets/6520345/17564907/fc20986a-5ee9-11e6-8e7f-abc19c482a7b.png)
-  * Find the repository name section and change it to `<username>.github.io` ![change repo name](https://butt.githubusercontent.com/assets/6520345/17564950/2a69081a-5eea-11e6-8d17-8017954d8ad7.png)
+  * Click on the settings tab toward the top of the page: ![settings tab](https://cloud.githubusercontent.com/assets/6520345/17564907/fc20986a-5ee9-11e6-8e7f-abc19c482a7b.png)
+  * Find the repository name section and change it to `<username>.github.io` ![change repo name](https://cloud.githubusercontent.com/assets/6520345/17564950/2a69081a-5eea-11e6-8d17-8017954d8ad7.png)
   * Click the rename button.
 
 4. Go to the website `<username>.github.io`!  You have a web presence now!! It's not perfect, but it will be a work in progress over the whole course and it's an excellent start! If you want to change the content, you're going to need a copy on your own computer to edit and improve.
 
 4. Click the clone or download button and copy the "clone URL."
 
-  ![clone button](https://butt.githubusercontent.com/assets/6520345/17565250/87ec41b8-5eeb-11e6-8fc8-280aa6e14611.png)
+  ![clone button](https://cloud.githubusercontent.com/assets/6520345/17565250/87ec41b8-5eeb-11e6-8fc8-280aa6e14611.png)
 
-  ![clone url](https://butt.githubusercontent.com/assets/6520345/17565297/bc8e85ca-5eeb-11e6-870d-3029f9f7ed5b.png)
+  ![clone url](https://cloud.githubusercontent.com/assets/6520345/17565297/bc8e85ca-5eeb-11e6-870d-3029f9f7ed5b.png)
 
 1. On your own computer, make a `wdi` directory in your home folder (`~`). This is where you will put all your work from this class. You can complete this in one command:
   ```
