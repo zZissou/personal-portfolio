@@ -6,21 +6,22 @@ body {
   font-weight: bold;
   font-size: 120%;
 }
-header {
-  background-image:url('images/backgroundphoto.jpg');
-  height: 30em;
-  background-size: cover;
+.header {
+  background-image:url('images/backgroundphoto2.jpg');
+  height: 32.2em;
+  /*background-size: cover;*/
 }
-header h1 {
-  margin: 0;
+.header h1 {
+  margin: 0 1em;
+  font-size: 50px;
 }
-nav {
+.header nav {
   text-align: center;
+  margin-top: 21em;
 }
-a {
+.header a {
   display: inline-block;
   text-align: center;
-  background-color: #00384F;
   color: white;
   height: 2.5em;
   width: 20%;
@@ -28,4 +29,26 @@ a {
   font-size: 2em;
   vertical-align: middle;
   padding-top: .5em;
+  border: 2px solid white;
+}
+
+.section {
+  margin: 5%;
+}
+
+.section h2 {
+  margin-bottom: 2em;
+}
+.footer nav {
+  text-decoration: none;
+  text-align: center;
+}
+
+.footer a {
+  text-decoration: none;
+  color: white;
+  padding: 0 1em;
+}
+
+a:visited {
 }
