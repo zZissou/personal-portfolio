@@ -15,7 +15,6 @@ body {
   margin-top: 0em;
   padding: .5em 0em 0em 1em;
   font-size: 50px;
-
 }
 .header nav {
   text-align: center;
@@ -29,8 +28,8 @@ body {
   width: 20%;
   text-decoration: none;
   font-size: 2em;
-  top: 50%;
-  padding: 0em .5em;
+  /*padding: 0em .5em;*/
+  margin: 0 .3em;
   border: 2px solid white;
 }
 
@@ -61,4 +60,9 @@ body {
 }
 
 a:visited {
+}
+.navbar-fixed {
+  top: 0;
+  z-index: 100;
+  position: fixed;
 }
