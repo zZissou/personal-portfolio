@@ -12,8 +12,10 @@ body {
   /*background-size: cover;*/
 }
 .header h1 {
-  margin: 0 1em;
+  margin-top: 0em;
+  padding: .5em 0em 0em 1em;
   font-size: 50px;
+
 }
 .header nav {
   text-align: center;
@@ -27,16 +29,19 @@ body {
   width: 20%;
   text-decoration: none;
   font-size: 2em;
-  vertical-align: middle;
-  padding-top: .5em;
+  top: 50%;
+  padding: 0em .5em;
   border: 2px solid white;
 }
 
 .section {
-  margin: 5%;
+  margin: 10%;
 }
 
 .section h2 {
+  margin-bottom: 2em;
+}
+.footer {
   margin-bottom: 2em;
 }
 .footer nav {
