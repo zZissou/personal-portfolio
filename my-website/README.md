@@ -16,14 +16,16 @@ We're really looking forward to seeing what you've built by Friday! Please reach
 
 future integrations and ideas. I'M JUST SPITBALLIN HERE...
 
-I want to auto scroll down the page when you click on the <a href> links.
+(A+) Fix header to top.
 
-I want it to fix the header to the top as it scrolls down. when you reach the current <a href>, replease it with a "home" <a href> which will auto scroll back to the top. switch to home will include a flip(rotate on z axis) to show the new <a href>.
+(A) I want to auto scroll down the page when you click on the <a href> links.
 
-want to include a download link of my resume.
+(A-) Need to update format of resume. Reduce amount of html and use more css spacing.
 
-Want to complete an actual easy form in the contact section.
+(B+) As you scroll down the page, I want the fixed header to replace the corresponding <a href> to a home <a href> button that will force scroll to the top. The transition between <a href> will be a flip(rotate on z axis) to show the new <a href>.
 
-include icons with the different <a href> pages.
+(B)want to include a download link of my resume.
 
-I want
+(B-)Want to complete an actual easy form in the contact section.
+
+(B-) include icons with the different <a href> pages.

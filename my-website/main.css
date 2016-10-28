@@ -41,6 +41,11 @@ body {
 .section h2 {
   margin-bottom: 2em;
 }
+
+.resume a {
+  text-decoration: none;
+  color: white;
+}
 .footer {
   margin-bottom: 2em;
 }
