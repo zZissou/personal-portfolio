@@ -7,7 +7,7 @@ body {
   font-size: 120%;
 }
 .header {
-  background-image:url('images/backgroundphoto2.jpg');
+  background-image:url('../images/backgroundphoto2.jpg');
   height: 51em;
   width: 100%;
 }
